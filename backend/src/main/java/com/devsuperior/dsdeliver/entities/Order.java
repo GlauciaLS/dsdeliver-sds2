@@ -86,6 +86,10 @@ public class Order implements Serializable {
 	public Set<Product> getProducts() {
 		return products;
 	}
+	
+	public Order() {
+		
+	}
 
 	public Order(Long id, String address, Double latitude, Double longitude, Instant moment, OrderStatus status) {
 		super();
