@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://5ffb7c58b9bdfa0007bf91f3--dsdeliver-glaucia.netlify.app/" target="_new">
+  <a href="https://dsdeliver-glaucia.netlify.app/" target="_new">
     <img src="https://github.com/GlauciaLS/dsdeliver-sds2/blob/main/front-web/src/Navbar/logo.svg" height="150" width="175" alt="DS Delivery" />
   </a>
 </p>
