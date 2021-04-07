@@ -52,7 +52,7 @@ página que possui as orientações para o cliente, a lista de produtos, um mapa
 
 <br>
 
-<h1> Como executar o projeto</h1>
+<h1>▶️ Como executar o projeto</h1>
 
 <h2>Back end</h2>
 Pré-requisitos: Java 11
