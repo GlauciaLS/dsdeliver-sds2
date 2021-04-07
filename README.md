@@ -26,6 +26,9 @@ API com quatros endpoints:</p>
 <p>A landing page é composta por uma frase de efeito, uma imagem e um botão que levará o usuário à tela responsável pelo pedido do cliente, que, por sua vez, é uma
 página que possui as orientações para o cliente, a lista de produtos, um mapa para obter a localização do usuário e o botão para confirmar o pedido.</p>
 
+<p>Back-end hospedado no Heroku: https://dsdeliver-sds2-glaucia.herokuapp.com/ </p>
+<p>Front-end hospedado no Netflify: https://dsdeliver-glaucia.netlify.app/ </p>
+
 <h1>🛠 Tecnologias</h1>
 
 - Front-end:
