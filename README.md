@@ -51,3 +51,36 @@ página que possui as orientações para o cliente, a lista de produtos, um mapa
 [Guia de instalação para MAC](https://github.com/devsuperior/sds1/tree/master/ferramentas/mac)
 
 <br>
+
+<h1>Como executar o projeto</h1>
+
+<h2>Back end</h2>
+Pré-requisitos: Java 11
+
+```bash
+# clonar repositório
+git clone https://github.com/santosediego/dsdeliver-sds2.git
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+./mvnw spring-boot:run
+```
+
+<h2>Front end</h2>
+Pré-requisitos: npm / yarn
+
+```bash
+# clonar repositório
+git clone https://github.com/santosediego/dsdeliver-sds2.git
+
+# entrar na pasta do projeto front end web
+cd front-web
+
+# instalar dependências
+npm install
+
+# executar o projeto
+npm start
+```
