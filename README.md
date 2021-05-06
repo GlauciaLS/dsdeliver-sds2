@@ -27,7 +27,7 @@ API com quatros endpoints:</p>
 página que possui as orientações para o cliente, a lista de produtos, um mapa para obter a localização do usuário e o botão para confirmar o pedido.</p>
 
 <p>Back-end hospedado no Heroku: https://dsdeliver-sds2-glaucia.herokuapp.com/ </p>
-<p>Front-end hospedado no Netlify: https://dsdeliver-glaucia.netlify.app/ </p>
+<p>Front-end hospedado no Netlify: https://dsdeliver-glaucials.netlify.app/ </p>
 
 <h1>🛠 Tecnologias</h1>
 
